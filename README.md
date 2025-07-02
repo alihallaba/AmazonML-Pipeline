@@ -1,0 +1,2 @@
+# AmazonML-Pipeline
+This project builds a complete Natural Language Processing (NLP) and Machine Learning (ML) pipeline to analyze customer reviews from Amazon. It leverages both classical ML techniques and advanced transformer models (BERT) to extract meaningful insights from raw review text.  The dataset used is a real-world Amazon product reviews dataset, which includes product names, user IDs, ratings, pricing information, and free-text customer reviews.
